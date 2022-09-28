@@ -1,0 +1,10 @@
+127.0.0.1 *.apple.com
+127.0.0.1 *.icloud.com
+127.0.0.1 *.me.com
+127.0.0.1 *.icloud-content.com
+127.0.0.1 *.apple-dns.net
+127.0.0.1 *.apple.com.edgekey.net
+127.0.0.1 *.aaplimg.com
+127.0.0.1 *.mzstatic.com
+127.0.0.1 *apple.com.akadns.net
+127.0.0.1 *.cdn-apple.com
